@@ -45,12 +45,12 @@ string.endsWith('s')
 string.includes('ing')
 ```
 
-##string: multiline
+## string: multiline
 
 python style using backslash or backquote
 
 
-##functions: default value
+## functions: default value
 
 ``` javascript
 
